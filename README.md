@@ -52,3 +52,6 @@ Contributions to improve the script or add new features are welcome. If you'd li
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+![image](https://github.com/guptuv/turtle_rectangle/assets/116263507/bbfb5d99-12d6-441b-9b41-b368f88ce7d0)
+
